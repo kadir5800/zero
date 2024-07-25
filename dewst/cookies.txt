@@ -1,0 +1,17 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+keiton-store-demo.myshopify.com	TRUE	/admin	FALSE	1999999999	shopify_web_return_to	%2Fadmin
+keiton-store-demo.myshopify.com	TRUE	/admin	FALSE	1999999999	_secure_admin_session_id	5a4cd46bcfb0d0d6580eda7da47eaa89
+keiton-store-demo.myshopify.com	TRUE	/admin	FALSE	1999999999	_secure_admin_session_id_csrf	5a4cd46bcfb0d0d6580eda7da47eaa89
+keiton-store-demo.myshopify.com	TRUE	/admin	FALSE	1999999999	_master_udr	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaWszTUdVd01tVmxOeTFqTlRJM0xUUTFaakV0T1RWa05pMDFOV0k0TkRRek1XUmtPV1VHT2daRlJnPT0iLCJleHAiOiIyMDI2LTA3LTExVDA4OjMyOjA4LjY5N1oiLCJwdXIiOiJjb29raWUuX21hc3Rlcl91ZHIifX0%3D--6758888202f6b30bba7921873e6747e9051e3ea0
+keiton-store-demo.myshopify.com	TRUE	/	FALSE	1999999999	keep_alive	9ae9ef54-eb7a-460f-ad26-da922e37ea87
+keiton-store-demo.myshopify.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22TR38%22%2C%22reg%22%3A%22%22%7D
+keiton-store-demo.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	18afe375-b165-4850-a107-96bed278dadf
+keiton-store-demo.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	79c5bb2c-5ec4-47aa-ae4e-c22f0bc9c574
+keiton-store-demo.myshopify.com	TRUE	/	FALSE	1999999999	_orig_referrer	http%3A%2F%2Fkeiton-store-demo.myshopify.com%2F
+keiton-store-demo.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2Fpassword
+keiton-store-demo.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_essential	:AZCg63mEAAH_-9dFGjV0mkk-2NqNYlYPjZg8kFMyzDGXW4oy9yPUa5JoJVsDBC3z7hLNSzs5ogFnLQAliNgJuY2PO_7mJ2mbcUURlw:
+keiton-store-demo.myshopify.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D
+keiton-store-demo.myshopify.com	TRUE	/	FALSE	1999999999	localization	US
+keiton-store-demo.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

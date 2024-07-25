@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://keiton-store-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://keiton-store-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://keiton-store-demo.myshopify.com/collections/new-2.atom"/>
+  <title>Keiton - Running Shoes, Sports Shoes &amp; Clothes Shopify 2.0 Theme</title>
+  <updated>2023-07-03T03:39:53-04:00</updated>
+  <author>
+    <name>Keiton - Running Shoes, Sports Shoes &amp; Clothes Shopify 2.0 Theme</name>
+  </author>
+  <entry>
+    <id>https://keiton-store-demo.myshopify.com/products/8566193094929</id>
+    <published>2023-07-03T03:39:53-04:00</published>
+    <updated>2023-07-03T03:39:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://keiton-store-demo.myshopify.com/products/japan-spf"/>
+    <title>Japan Spf</title>
+    <s:type></s:type>
+    <s:vendor>Sebird - Sports Shoes Responsive Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/7464/9617/products/4.1.jpg?v=1688369997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sebird - Sports Shoes Responsive Shopify Theme<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="row">
+<div class="col-sm-6">
+<div><img src="https://cdn.shopify.com/s/files/1/0560/3137/9504/files/instagram10.jpg?v=1647005954" class="img-ultra" alt=""></div>
+</div>
+<div class="col-sm-6" stye="border-left: 1px solid rgba(211, 211, 211,.2);">
+<div class="ultra">
+<h3 class="heading-content">Things You Need To Know</h3>
+<p class="heading-content">Using advanced edging technology and high-quality materials, our premium sunglasses have a luxurious look and feel with subtly curved lenses. These striking, sophisticated sunglasses offer timeless design updated with shiny gold metal accents at the temples for just a bit of bling. The wide frame and temple arms are crafted in lightweight and flexible TR90 plastic in glossy black (shown with gradient gray tint) or glossy, semi-transparent white (shown with gradient gray tint). </p>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-6">
+<div class="ultra">
+<h3 class="heading-content">Things You Need To Know</h3>
+<p class="heading-content">Using advanced edging technology and high-quality materials, our premium sunglasses have a luxurious look and feel with subtly curved lenses. These striking, sophisticated sunglasses offer timeless design updated with shiny gold metal accents at the temples for just a bit of bling. The wide frame and temple arms are crafted in lightweight and flexible TR90 plastic in glossy black (shown with gradient gray tint) or glossy, semi-transparent white (shown with gradient gray tint).</p>
+</div>
+</div>
+<div class="col-sm-6">
+<div><img src="https://cdn.shopify.com/s/files/1/0560/3137/9504/files/instagram9.jpg?v=1647005954" class="img-ultra" alt=""></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://keiton-store-demo.myshopify.com/products/8566193094929</id>
+      <title>S</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://keiton-store-demo.myshopify.com/products/8566193094929</id>
+      <title>M</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://keiton-store-demo.myshopify.com/products/8566193094929</id>
+      <title>L</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://keiton-store-demo.myshopify.com/products/8566192963857</id>
+    <published>2023-07-03T03:39:48-04:00</published>
+    <updated>2023-07-03T03:39:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://keiton-store-demo.myshopify.com/products/malibu-sneaker"/>
+    <title>Malibu Sneaker</title>
+    <s:type></s:type>
+    <s:vendor>Sebird - Sports Shoes Responsive Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/7464/9617/products/10.1.jpg?v=1688369992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sebird - Sports Shoes Responsive Shopify Theme<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="row">
+<div class="col-sm-6">
+<div><img src="https://cdn.shopify.com/s/files/1/0560/3137/9504/files/instagram10.jpg?v=1647005954" class="img-ultra" alt=""></div>
+</div>
+<div class="col-sm-6" stye="border-left: 1px solid rgba(211, 211, 211,.2);">
+<div class="ultra">
+<h3 class="heading-content">Things You Need To Know</h3>
+<p class="heading-content">Using advanced edging technology and high-quality materials, our premium sunglasses have a luxurious look and feel with subtly curved lenses. These striking, sophisticated sunglasses offer timeless design updated with shiny gold metal accents at the temples for just a bit of bling. The wide frame and temple arms are crafted in lightweight and flexible TR90 plastic in glossy black (shown with gradient gray tint) or glossy, semi-transparent white (shown with gradient gray tint). </p>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-6">
+<div class="ultra">
+<h3 class="heading-content">Things You Need To Know</h3>
+<p class="heading-content">Using advanced edging technology and high-quality materials, our premium sunglasses have a luxurious look and feel with subtly curved lenses. These striking, sophisticated sunglasses offer timeless design updated with shiny gold metal accents at the temples for just a bit of bling. The wide frame and temple arms are crafted in lightweight and flexible TR90 plastic in glossy black (shown with gradient gray tint) or glossy, semi-transparent white (shown with gradient gray tint).</p>
+</div>
+</div>
+<div class="col-sm-6">
+<div><img src="https://cdn.shopify.com/s/files/1/0560/3137/9504/files/instagram9.jpg?v=1647005954" class="img-ultra" alt=""></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://keiton-store-demo.myshopify.com/products/8566192963857</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://keiton-store-demo.myshopify.com/products/8566192668945</id>
+    <published>2023-07-03T03:39:43-04:00</published>
+    <updated>2023-07-03T03:39:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://keiton-store-demo.myshopify.com/products/retro-hiker"/>
+    <title>Retro Hiker</title>
+    <s:type></s:type>
+    <s:vendor>Sebird - Sports Shoes Responsive Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/7464/9617/products/15.1.jpg?v=1688369987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sebird - Sports Shoes Responsive Shopify Theme<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="row">
+<div class="col-sm-6">
+<div><img src="https://cdn.shopify.com/s/files/1/0560/3137/9504/files/instagram10.jpg?v=1647005954" class="img-ultra" alt=""></div>
+</div>
+<div class="col-sm-6" stye="border-left: 1px solid rgba(211, 211, 211,.2);">
+<div class="ultra">
+<h3 class="heading-content">Things You Need To Know</h3>
+<p class="heading-content">Using advanced edging technology and high-quality materials, our premium sunglasses have a luxurious look and feel with subtly curved lenses. These striking, sophisticated sunglasses offer timeless design updated with shiny gold metal accents at the temples for just a bit of bling. The wide frame and temple arms are crafted in lightweight and flexible TR90 plastic in glossy black (shown with gradient gray tint) or glossy, semi-transparent white (shown with gradient gray tint). </p>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-6">
+<div class="ultra">
+<h3 class="heading-content">Things You Need To Know</h3>
+<p class="heading-content">Using advanced edging technology and high-quality materials, our premium sunglasses have a luxurious look and feel with subtly curved lenses. These striking, sophisticated sunglasses offer timeless design updated with shiny gold metal accents at the temples for just a bit of bling. The wide frame and temple arms are crafted in lightweight and flexible TR90 plastic in glossy black (shown with gradient gray tint) or glossy, semi-transparent white (shown with gradient gray tint).</p>
+</div>
+</div>
+<div class="col-sm-6">
+<div><img src="https://cdn.shopify.com/s/files/1/0560/3137/9504/files/instagram9.jpg?v=1647005954" class="img-ultra" alt=""></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://keiton-store-demo.myshopify.com/products/8566192668945</id>
+      <title>S</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://keiton-store-demo.myshopify.com/products/8566192668945</id>
+      <title>M</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://keiton-store-demo.myshopify.com/products/8566192668945</id>
+      <title>L</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://keiton-store-demo.myshopify.com/products/8566192275729</id>
+    <published>2023-07-03T03:39:38-04:00</published>
+    <updated>2023-07-03T03:39:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://keiton-store-demo.myshopify.com/products/rio-branco"/>
+    <title>Rio Branco</title>
+    <s:type></s:type>
+    <s:vendor>Sebird - Sports Shoes Responsive Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/7464/9617/products/11.1.jpg?v=1688369982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sebird - Sports Shoes Responsive Shopify Theme<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="row">
+<div class="col-sm-6">
+<div><img src="https://cdn.shopify.com/s/files/1/0560/3137/9504/files/instagram10.jpg?v=1647005954" class="img-ultra" alt=""></div>
+</div>
+<div class="col-sm-6" stye="border-left: 1px solid rgba(211, 211, 211,.2);">
+<div class="ultra">
+<h3 class="heading-content">Things You Need To Know</h3>
+<p class="heading-content">Using advanced edging technology and high-quality materials, our premium sunglasses have a luxurious look and feel with subtly curved lenses. These striking, sophisticated sunglasses offer timeless design updated with shiny gold metal accents at the temples for just a bit of bling. The wide frame and temple arms are crafted in lightweight and flexible TR90 plastic in glossy black (shown with gradient gray tint) or glossy, semi-transparent white (shown with gradient gray tint). </p>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-6">
+<div class="ultra">
+<h3 class="heading-content">Things You Need To Know</h3>
+<p class="heading-content">Using advanced edging technology and high-quality materials, our premium sunglasses have a luxurious look and feel with subtly curved lenses. These striking, sophisticated sunglasses offer timeless design updated with shiny gold metal accents at the temples for just a bit of bling. The wide frame and temple arms are crafted in lightweight and flexible TR90 plastic in glossy black (shown with gradient gray tint) or glossy, semi-transparent white (shown with gradient gray tint).</p>
+</div>
+</div>
+<div class="col-sm-6">
+<div><img src="https://cdn.shopify.com/s/files/1/0560/3137/9504/files/instagram9.jpg?v=1647005954" class="img-ultra" alt=""></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://keiton-store-demo.myshopify.com/products/8566192275729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://keiton-store-demo.myshopify.com/products/8566191915281</id>
+    <published>2023-07-03T03:39:33-04:00</published>
+    <updated>2023-07-03T03:39:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://keiton-store-demo.myshopify.com/products/running-sole"/>
+    <title>Running Sole</title>
+    <s:type></s:type>
+    <s:vendor>Sebird - Sports Shoes Responsive Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/7464/9617/products/14.1.jpg?v=1688369977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sebird - Sports Shoes Responsive Shopify Theme<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="row">
+<div class="col-sm-6">
+<div><img src="https://cdn.shopify.com/s/files/1/0560/3137/9504/files/instagram10.jpg?v=1647005954" class="img-ultra" alt=""></div>
+</div>
+<div class="col-sm-6" stye="border-left: 1px solid rgba(211, 211, 211,.2);">
+<div class="ultra">
+<h3 class="heading-content">Things You Need To Know</h3>
+<p class="heading-content">Using advanced edging technology and high-quality materials, our premium sunglasses have a luxurious look and feel with subtly curved lenses. These striking, sophisticated sunglasses offer timeless design updated with shiny gold metal accents at the temples for just a bit of bling. The wide frame and temple arms are crafted in lightweight and flexible TR90 plastic in glossy black (shown with gradient gray tint) or glossy, semi-transparent white (shown with gradient gray tint). </p>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-6">
+<div class="ultra">
+<h3 class="heading-content">Things You Need To Know</h3>
+<p class="heading-content">Using advanced edging technology and high-quality materials, our premium sunglasses have a luxurious look and feel with subtly curved lenses. These striking, sophisticated sunglasses offer timeless design updated with shiny gold metal accents at the temples for just a bit of bling. The wide frame and temple arms are crafted in lightweight and flexible TR90 plastic in glossy black (shown with gradient gray tint) or glossy, semi-transparent white (shown with gradient gray tint).</p>
+</div>
+</div>
+<div class="col-sm-6">
+<div><img src="https://cdn.shopify.com/s/files/1/0560/3137/9504/files/instagram9.jpg?v=1647005954" class="img-ultra" alt=""></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://keiton-store-demo.myshopify.com/products/8566191915281</id>
+      <title>S</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://keiton-store-demo.myshopify.com/products/8566191915281</id>
+      <title>M</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://keiton-store-demo.myshopify.com/products/8566191915281</id>
+      <title>L</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://keiton-store-demo.myshopify.com/products/8566191554833</id>
+    <published>2023-07-03T03:39:27-04:00</published>
+    <updated>2023-07-03T03:39:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://keiton-store-demo.myshopify.com/products/shoes-mt"/>
+    <title>Shoes MT</title>
+    <s:type></s:type>
+    <s:vendor>Sebird - Sports Shoes Responsive Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/7464/9617/products/1.2.jpg?v=1688369972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sebird - Sports Shoes Responsive Shopify Theme<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="row">
+<div class="col-sm-6">
+<div><img src="https://cdn.shopify.com/s/files/1/0560/3137/9504/files/instagram10.jpg?v=1647005954" class="img-ultra" alt=""></div>
+</div>
+<div class="col-sm-6" stye="border-left: 1px solid rgba(211, 211, 211,.2);">
+<div class="ultra">
+<h3 class="heading-content">Things You Need To Know</h3>
+<p class="heading-content">Using advanced edging technology and high-quality materials, our premium sunglasses have a luxurious look and feel with subtly curved lenses. These striking, sophisticated sunglasses offer timeless design updated with shiny gold metal accents at the temples for just a bit of bling. The wide frame and temple arms are crafted in lightweight and flexible TR90 plastic in glossy black (shown with gradient gray tint) or glossy, semi-transparent white (shown with gradient gray tint). </p>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-6">
+<div class="ultra">
+<h3 class="heading-content">Things You Need To Know</h3>
+<p class="heading-content">Using advanced edging technology and high-quality materials, our premium sunglasses have a luxurious look and feel with subtly curved lenses. These striking, sophisticated sunglasses offer timeless design updated with shiny gold metal accents at the temples for just a bit of bling. The wide frame and temple arms are crafted in lightweight and flexible TR90 plastic in glossy black (shown with gradient gray tint) or glossy, semi-transparent white (shown with gradient gray tint).</p>
+</div>
+</div>
+<div class="col-sm-6">
+<div><img src="https://cdn.shopify.com/s/files/1/0560/3137/9504/files/instagram9.jpg?v=1647005954" class="img-ultra" alt=""></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gray</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://keiton-store-demo.myshopify.com/products/8566191554833</id>
+      <title>S / Gray</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://keiton-store-demo.myshopify.com/products/8566191554833</id>
+      <title>S / white</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://keiton-store-demo.myshopify.com/products/8566191554833</id>
+      <title>M / Gray</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://keiton-store-demo.myshopify.com/products/8566191554833</id>
+      <title>M / white</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://keiton-store-demo.myshopify.com/products/8566191554833</id>
+      <title>L / Gray</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://keiton-store-demo.myshopify.com/products/8566191554833</id>
+      <title>L / white</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://keiton-store-demo.myshopify.com/products/8566191128849</id>
+    <published>2023-07-03T03:39:22-04:00</published>
+    <updated>2023-07-03T03:39:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://keiton-store-demo.myshopify.com/products/tarther-blast"/>
+    <title>Tarther Blast</title>
+    <s:type></s:type>
+    <s:vendor>Sebird - Sports Shoes Responsive Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/7464/9617/products/2.1.jpg?v=1688369966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sebird - Sports Shoes Responsive Shopify Theme<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="row">
+<div class="col-sm-6">
+<div><img src="https://cdn.shopify.com/s/files/1/0560/3137/9504/files/instagram10.jpg?v=1647005954" class="img-ultra" alt=""></div>
+</div>
+<div class="col-sm-6" stye="border-left: 1px solid rgba(211, 211, 211,.2);">
+<div class="ultra">
+<h3 class="heading-content">Things You Need To Know</h3>
+<p class="heading-content">Using advanced edging technology and high-quality materials, our premium sunglasses have a luxurious look and feel with subtly curved lenses. These striking, sophisticated sunglasses offer timeless design updated with shiny gold metal accents at the temples for just a bit of bling. The wide frame and temple arms are crafted in lightweight and flexible TR90 plastic in glossy black (shown with gradient gray tint) or glossy, semi-transparent white (shown with gradient gray tint). </p>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-6">
+<div class="ultra">
+<h3 class="heading-content">Things You Need To Know</h3>
+<p class="heading-content">Using advanced edging technology and high-quality materials, our premium sunglasses have a luxurious look and feel with subtly curved lenses. These striking, sophisticated sunglasses offer timeless design updated with shiny gold metal accents at the temples for just a bit of bling. The wide frame and temple arms are crafted in lightweight and flexible TR90 plastic in glossy black (shown with gradient gray tint) or glossy, semi-transparent white (shown with gradient gray tint).</p>
+</div>
+</div>
+<div class="col-sm-6">
+<div><img src="https://cdn.shopify.com/s/files/1/0560/3137/9504/files/instagram9.jpg?v=1647005954" class="img-ultra" alt=""></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://keiton-store-demo.myshopify.com/products/8566191128849</id>
+      <title>S</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://keiton-store-demo.myshopify.com/products/8566191128849</id>
+      <title>M</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://keiton-store-demo.myshopify.com/products/8566191128849</id>
+      <title>L</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://keiton-store-demo.myshopify.com/products/8566190965009</id>
+    <published>2023-07-03T03:39:15-04:00</published>
+    <updated>2023-07-03T03:39:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://keiton-store-demo.myshopify.com/products/ultraboost"/>
+    <title>UltraBOOST</title>
+    <s:type></s:type>
+    <s:vendor>Sebird - Sports Shoes Responsive Shopify Theme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/7464/9617/products/7.1.jpg?v=1688369961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sebird - Sports Shoes Responsive Shopify Theme<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="row">
+<div class="col-sm-6">
+<div><img src="https://cdn.shopify.com/s/files/1/0560/3137/9504/files/instagram10.jpg?v=1647005954" class="img-ultra" alt=""></div>
+</div>
+<div class="col-sm-6" stye="border-left: 1px solid rgba(211, 211, 211,.2);">
+<div class="ultra">
+<h3 class="heading-content">Things You Need To Know</h3>
+<p class="heading-content">Using advanced edging technology and high-quality materials, our premium sunglasses have a luxurious look and feel with subtly curved lenses. These striking, sophisticated sunglasses offer timeless design updated with shiny gold metal accents at the temples for just a bit of bling. The wide frame and temple arms are crafted in lightweight and flexible TR90 plastic in glossy black (shown with gradient gray tint) or glossy, semi-transparent white (shown with gradient gray tint). </p>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-6">
+<div class="ultra">
+<h3 class="heading-content">Things You Need To Know</h3>
+<p class="heading-content">Using advanced edging technology and high-quality materials, our premium sunglasses have a luxurious look and feel with subtly curved lenses. These striking, sophisticated sunglasses offer timeless design updated with shiny gold metal accents at the temples for just a bit of bling. The wide frame and temple arms are crafted in lightweight and flexible TR90 plastic in glossy black (shown with gradient gray tint) or glossy, semi-transparent white (shown with gradient gray tint).</p>
+</div>
+</div>
+<div class="col-sm-6">
+<div><img src="https://cdn.shopify.com/s/files/1/0560/3137/9504/files/instagram9.jpg?v=1647005954" class="img-ultra" alt=""></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://keiton-store-demo.myshopify.com/products/8566190965009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
